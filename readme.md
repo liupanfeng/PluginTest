@@ -4,4 +4,3 @@
 **4.插件化实现service的加载**
 **5.BroadCastReceiver**
 **功能已经全部实现，并测试通过**
-
